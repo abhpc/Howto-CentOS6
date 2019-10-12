@@ -16,7 +16,7 @@
 
 ##### 2.1 关闭selinux
 
-在这之前需要首先学会[使用vim编辑器](https://www.vpser.net/manage/vi.html)。
+在这之前需要首先学会[使用vim编辑器](Basic/vim的使用.md)。
 
 编辑```/etc/selinux/config```文件，将以下行
 ```
